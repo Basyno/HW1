@@ -45,6 +45,6 @@ double bias = 0.0;
 ### After
 ![Image](https://raw.githubusercontent.com/Basyno/HW1/main/part1/build/Gaussian.bmp)
 ## Discussion and Conclution
-In this home work, I think the most difficult part is to recognize how the row buffer operate and we need to know how systemC work and get familiar with the systemC language.
+In this homework, I think the most difficult part is to recognize how the row buffer operate and we need to know how systemC work and get familiar with the systemC language.
 
 I think the advatage of row buffer is we dont need to read the repeat pixel in order to caculate the convolution value, and it can avoid loading too much useless data in our memory. 
